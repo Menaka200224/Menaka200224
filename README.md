@@ -94,6 +94,103 @@ Last Edited on: 11/12/2020
 </div>
 
 
+
+
+<h1 align="center">Hi 👋, I'm Menaka Karunathilaka</h1>
+<h3 align="center">Data Science Undergraduate | AI & Analytics Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## 🌱 About Me
+
+🎓 Undergraduate in **Data Science**  
+📊 Curious about discovering insights from data  
+🤖 Exploring **AI / Machine Learning** and real-world applications  
+🌍 Interested in **landscape change analysis, satellite data, and sustainability**  
+🚀 Always ready to learn and contribute
+
+---
+
+## 🛠️ Skills & Tools
+
+**Languages**
+- Python | R | SQL  
+
+**Data & AI**
+- Pandas | NumPy | Scikit-learn  
+- OpenCV | CNNs | Logistic Regression  
+- Time Series Forecasting  
+
+**Data Engineering & BI**
+- Google BigQuery  
+- Data Warehousing (Star & Snowflake Schemas)  
+- Looker Studio  
+
+**Tools**
+- VS Code | Jupyter Notebook  
+- Git & GitHub  
+
+---
+
+## 📌 Featured Projects
+
+🔹 **AI Chatbot using RAG**
+- Built with LangChain and document preprocessing  
+- Focus on responsible and explainable AI  
+
+🔹 **Sri Lanka Landscape Change Analysis**
+- NDVI-based analysis using satellite imagery  
+- Focused on environmental and disaster insights  
+
+🔹 **Hospital Management System**
+- Patient records, appointments, and analytics  
+- Designed for government hospitals  
+
+🔹 **Time Series Weather Forecasting**
+- Predicting climate variables for agricultural planning  
+
+➡️ *More projects available in my repositories*
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=YOUR_GITHUB_USERNAME&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*
+
+
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
